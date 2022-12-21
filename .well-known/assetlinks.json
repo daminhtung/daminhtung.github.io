@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.onthetrip.app.test",
+               "sha256_cert_fingerprints": ["1A:67:C6:FD:78:22:63:EF:A9:DC:5F:0D:E9:8D:3C:20:52:F9:9A:AE:FC:AE:63:67:8C:B1:73:A8:85:06:16:B8"] }
+}]
